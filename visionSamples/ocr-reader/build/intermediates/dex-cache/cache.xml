@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Manoj Parmar\.android\build-cache\0f4e78638c7c56fd56ca145f8f9b277ad8d45b20\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\classes_ef3b78bbef821bf21ba2133bf8b452f68da4d0c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Manoj Parmar\.android\build-cache\515d5ff0865b8549c0d3235305d3a3326d44617f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\classes_29cc5d710e5195aad5a13bbb68bb90922f13488d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoj Parmar\.android\build-cache\515d5ff0865b8549c0d3235305d3a3326d44617f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29cc5d710e5195aad5a13bbb68bb90922f13488d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_e761cec2ea23fca9a485bd7e8987fdb3271cc960\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Manoj Parmar\.android\build-cache\fd83ca1ba6dd574b505fd375b78e551af65dbdab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\classes_7c24716796bbfd96cf8b902e174401ad86be0f00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Manoj Parmar\.android\build-cache\515d5ff0865b8549c0d3235305d3a3326d44617f\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_8d097ca1d234185866120b3ad762ec431937a5fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_e761cec2ea23fca9a485bd7e8987fdb3271cc960.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoj Parmar\.android\build-cache\515d5ff0865b8549c0d3235305d3a3326d44617f\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_8d097ca1d234185866120b3ad762ec431937a5fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cf83010dd107f495373a84ee59bfc7cf38c7f1c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoj Parmar\.android\build-cache\9b4723ec68ce1217c56cf6534195448d059ebdef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="C:\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_790e0ea8e3334ec3c9dace0ef97afad80013b3bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manoj Parmar\.android\build-cache\d290acf649382e840be99221c376b8a4dec73e70\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a911d96b5393581e090096899d9ab16d8652f4ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Manoj Parmar\.android\build-cache\d290acf649382e840be99221c376b8a4dec73e70\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\classes_a911d96b5393581e090096899d9ab16d8652f4ed.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c54ec9e13c87071ca26625e619ef557e74fcde95">
+        <dex dex="C:\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d66a4b18dba230aad93a48a39c2333db78728c37\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Manoj Parmar\.android\build-cache\630d927c05633c437c5219d5de3483c76b07ee6c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\classes_cfb95154bfba751a9674748a85c7e4852ac599e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Manoj Parmar\.android\build-cache\d127d23ef3551b85e116db582620ef813418f882\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\classes_2e3c5749116c84ec0e31ca64b20e25d245fb6d89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Manoj Parmar\.android\build-cache\9b4723ec68ce1217c56cf6534195448d059ebdef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="C:\android-vision-master\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\classes_790e0ea8e3334ec3c9dace0ef97afad80013b3bf.jar" />
+    </item>
+
+</items>
